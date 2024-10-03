@@ -1,4 +1,4 @@
-# Your name - Fab Academy documentation
+# Belén Comotto - MDEF02 documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
